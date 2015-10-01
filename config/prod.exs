@@ -63,7 +63,3 @@ config :hello_phoenix, HelloPhoenix.Repo,
 #
 #     config :hello_phoenix, HelloPhoenix.Endpoint, server: true
 #
-
-# Finally import the config/prod.secret.exs
-# which should be versioned separately.
-import_config "prod.secret.exs"
